@@ -1,0 +1,11 @@
+pyperclip==1.9.0
+gradio==5.10.0
+json-repair
+langchain-mistralai==0.2.4
+langchain-google-genai
+MainContentExtractor
+playwright
+python-dotenv
+langchain
+playwright
+python-dotenv
